@@ -37,9 +37,9 @@ while True:
             if repetir != "si":
                 break
     elif opc == 4:
-        print("\n********************")
+        print("\n*********************")
         print("\nFINALIZANDO PROGRAMA")
-        print("\n********************")
+        print("\n*********************")
         break
     else:
         print("Ingrese un numero valido.")
